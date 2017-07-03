@@ -1,7 +1,8 @@
 # sonoff-evil
 sonoff evil firmware PoC - used for demonstration during live demo on exploitation by MQTT
 
-Tested on Sonoff Basic:
+Tested on Sonoff Basic:</br>
+
 <img src="https://github.com/arendst/arendst.github.io/blob/master/media/sonoffbasic.jpg" width="250" align="right" />
 
 > This firmware was used, with minor consmetic changes, for demonstration during BSidesTLV 2017 conference.
